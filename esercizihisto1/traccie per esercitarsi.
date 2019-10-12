@@ -1,0 +1,27 @@
+1) Creare un istogramma per ogni colonna dei file data1.dat, data2.dat data3.dat (range consigliato 0., 10)
+
+1bis) Salvare gli istogrammi in file .pdf.
+
+2) Mettere tutti gli istogrammi per ciascun file data1.dat, data2.dat e data3.dat, nella stessa canvas
+
+2bis) Salvare tutti gli istogrammi dentro un root file.
+
+3) Computare e plottare gli istogrammi data4.dat e 
+   riconoscere di ciascuno chi rappresenta la somma di instogrammi provenienti
+   dalle colonne di data1.dat e data2.dat.
+   Dimostrare di aver fatto il giusto riconoscimento sottraendo all'istogramma somma una delle presunte componenti
+   e mettere a grafico l'istogramma somma con quello ottenuto dalla differenza.
+
+4) Creare una macro che somma il primo istogramma prodotto dal file data1.dat con 
+   il primo del file data2.dat. Ripetere per tutti gli altri ordinatamente.
+
+5) Creare una macro che somma tutti gli istogrammi creati dal file data2.dat, e dimostrare che si otterrebbe lo stesso
+   risultato se si computasse un istogramma definito negli stessi estremi e con lo stesso numero di bin, utilizzando
+   direttamente tutti i dati del file data2.data
+
+6) Nei file data5.dat e data6.dat sono stati già computati un istogramma per ogni file. Definire l'istogramma che deve
+   ospitare questi dati, caricarli e metterli a grafico.
+
+7) Fare lo stesso di 6) ma con il file data7.dat, ma attenzione in questo caso vi dico solo che gli estremi dell'istogramma sono [0.,-10].
+
+8) Creare una macro capace di sommare tutti gli istogrammi prodotti utilizzando i dati dei file data1.dat, data2.dat e data3.dat
